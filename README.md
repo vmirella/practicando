@@ -1,8 +1,13 @@
-TRIVIA
--------
-Desarrollado por: Virginia Contreras
--------
+#TRIVIA
+
+##Desarrollado por: 
+
+Virginia Contreras
+
+##Descripción:
+```
 Este es un juego de trivia con cuatro categorías.
--------
-¡Diviértete!
+```
+###¡Diviértete!
+
 ![alt text](https://imageshack.com/a/img923/4782/gPd9Lo.png)
